@@ -1,5 +1,5 @@
 <h1 align="center">Mehdi Cherifi</h1>
-<h3 align="center">PhD in Electronics |  Cisco CCAI Instructor and Network Engineering Trainer</h3>
+<h3 align="center">Cisco CCAI Instructor and Network Engineering Trainer</h3>
 
 PhD in Electronics | Active Cisco CCAI Instructor and Network Engineering Trainer. 
 [Part of Cisco DevNet Class 2020](https://www.credly.com/badges/d790fb8e-07a4-46b2-9521-5fb975554db2) 
