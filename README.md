@@ -1,7 +1,7 @@
 <h1 align="center">Mehdi Cherifi</h1>
 <h3 align="center">Cisco CCAI Instructor and Network Engineering Trainer</h3>
 
-PhD in Electronics | Active Cisco CCAI Instructor and Network Engineering Trainer. 
+Active Cisco CCAI Instructor and Network Engineering Trainer. 
 [Part of Cisco DevNet Class 2020](https://www.credly.com/badges/d790fb8e-07a4-46b2-9521-5fb975554db2) 
 Cisco DevNet Code Exchange and Automation Exchange Contributor.
 [CCNA](https://www.credly.com/badges/986de729-fca1-4c89-9c5c-c8d7e848f37d), [CCNA DevNet](https://www.credly.com/badges/18805d05-1b47-44a9-9fe6-e55fbb012ceb) Certified
