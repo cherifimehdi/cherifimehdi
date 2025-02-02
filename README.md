@@ -1,4 +1,4 @@
-<h1 align="center">Mehdi Cherifi</h1>
+<h1 align="center">Mehdi C</h1>
 <h3 align="center">Cisco CCAI Instructor and Network Engineering Trainer</h3>
 
 Active Cisco CCAI Instructor and Network Engineering Trainer. 
